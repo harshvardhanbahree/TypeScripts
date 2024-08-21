@@ -11,5 +11,5 @@ const a: User = {
 }
 
 console.info(a.userId)
-a.userId= 45   // Not allowed
+// a.userId= 45   // Not allowed
 console.info(a)
